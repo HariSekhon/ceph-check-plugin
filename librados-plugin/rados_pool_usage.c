@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 /*
-* Author: zihong.chen@intel.com
+* Author: atrmat@gmail.com
 * Ceph check-plugin
 * Copyright (c) 2013
 * All rights reserved.
