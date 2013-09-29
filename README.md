@@ -11,3 +11,4 @@ in librados-plugin, use the orginal librados c api:
    or somewhere else.
 
 2. compile the program with -L {Ceph library path}, -lrados, -I {rados library path} 
+3. for more details visit: ceph.com/docs/master/rados/api/librados/#rados_t
